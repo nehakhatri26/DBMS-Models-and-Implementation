@@ -1,0 +1,7 @@
+---------------------------------------------------------------
+TxId	Txtype	Operation	ObId:Obvalue:optime	LockType	Status		TxStatus
+T1	W 	BeginTx
+T2	W 	BeginTx
+T1	 	ReadTx		1:-1:277		ReadLock	Granted		 P
+T2	 	ReadTx		2:-1:235		ReadLock	Granted		 P
+could not do a P semaphore operation on sem:2
