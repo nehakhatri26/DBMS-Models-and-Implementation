@@ -1,0 +1,6 @@
+Project 3
+
+You need to compute the following for the given data using the
+map/reduce paradigm. Try to compare and understand how you would do it using RDBMS if these
+files were stored as relations. This may help you understand when map/reduce is meaningful and
+when to use a RDBMS.
