@@ -1,0 +1,8 @@
+Fall 2019 
+Instructor - Sharma Chakravarthy
+Project 1 - B+ Tree Implementation
+
+This project implements parts of the index file organization for the database management system MINIBASE.
+You will use some methods of Buffer Manager Class which are provided to you.
+The test methods indicate the sequence of calls made on the provided layers as well as on the methods that you will be implementing.
+In addition to what you implement, this project is intended to show typical implementation of DBMS modules.
